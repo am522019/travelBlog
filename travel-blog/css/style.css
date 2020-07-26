@@ -1,0 +1,15 @@
+.min-height-900 {
+  min-height: 900px;
+}
+.dropdown-toggle-no-arrow::after {
+  display: none;
+}
+
+.quotes {
+  font-family: "Lobster", cursive;
+}
+.example-story {
+  color: rgb(58, 163, 165);
+  font-size: 34px;
+  font-family: "El Messiri", sans-serif;
+}
